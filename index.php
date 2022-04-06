@@ -8,6 +8,11 @@
     <form method = "POST" action = "processa.php">
       <label> Nome: </label>
       <input type = "text" name = "nome" placeholder = "Digite o nome completo "><br><br>
+
+      <label>E-mail:</label>
+      <input type = "email" name = "email" placeholder = "Digite o seu e-mail. ">
+
+      <input type = "submit" value = "Cadastrar"
     </form>
   </body>
 </html>
