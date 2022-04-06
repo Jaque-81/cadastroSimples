@@ -12,7 +12,7 @@
       <label>E-mail:</label>
       <input type = "email" name = "email" placeholder = "Digite o seu e-mail. ">
 
-      <input type = "submit" value = "Cadastrar"
+      <input type = "submit" value = "Cadastrar"/>
     </form>
   </body>
 </html>
